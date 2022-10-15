@@ -65,8 +65,18 @@
     <span id="Helping the orphans"></span>
 <span class="building orphanage"></span>
 
-  <button
-  onclick=" helpingOrphansEl()">lets help</button>
+<p id="demo">Click me.</p>
+
+<script>
+document.getElementById("demo").addEventListener("click", myFunction);
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Donation NUmber 0768727692!";
+}
+</script>
+<button onclick="getElementById('demo').innerHTML=Date()">What is the time?</button>
+
+<p id="demo"></p>
     
     <div>
       <section>&copf; made by Fatuma &hearts; Nmk</section>
