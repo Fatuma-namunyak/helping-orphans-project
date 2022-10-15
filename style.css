@@ -86,3 +86,15 @@ div section{
     ;
 }
 
+av div header img #nmk{
+    border-radius: 7rem;
+    height: 4.4rem;
+
+}
+
+img{
+    padding: 5rem;
+    border-radius: 2rem;
+    align-items: center;
+
+}
