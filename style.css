@@ -24,3 +24,27 @@ nav div header img{
     margin-left: 2rem;
 
 }
+
+nav div header h1{
+    height: 4.4rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+
+}
+nav div ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40rem;
+}
+
+nav div ul li{
+    display: flex;
+    align-items: center;
+    margin-left: 3rem;
+    flex-direction: row;
+    text-align: center;
+    text-decoration: none;
+}
