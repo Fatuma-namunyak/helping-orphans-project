@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: gray;
+    
+} 
+
+nav div {
+    text-decoration: dotted;
+    align-items: center;
+}
+
+nav div header{
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+
+}
+
+nav div header img{
+    border-radius: 7rem;
+    height: 4.4rem;
+    margin-left: 2rem;
+
+}
