@@ -2,7 +2,7 @@
 # Name of the Project
  HELPING THE ORPHANS
  ### Author : Name Date
- Fatuma Namunyak
+ Fatuma Namunyak 15/10/2022
  ## Project Description
  My project is about helping orphans to have a happy and successful life by building orphanage and taking them to school.
  
