@@ -1,12 +1,12 @@
 # helping-orphans-project
 # Name of the Project
- helping-orphans-project
+ HELPING THE ORPHANS
  ### Author : Name Date
- Fatuma namunyak
+ Fatuma Namunyak
  ## Project Description
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- building orphanage
+ My project is about helping orphans to have a happy and successful life by building orphanage and taking them to school.
+ 
+ 
  ## SCREENSHOTS![Screenshot from 2022-10-15 13-00-35](https://user-images.githubusercontent.com/113112426/195984111-17cb4875-f114-4683-97e6-49311d4dbb0d.png)
 
  - link 2![Screenshot from 2022-10-13 16-25-50](https://user-images.githubusercontent.com/113112426/195984134-11637e0a-dcd1-4559-bc01-527d214b6fe6.png)
@@ -52,7 +52,7 @@
  *****
  ## Contact Information
  * Email : example@gmail.com
- *****
+ fatmanamnyak22@yahoo.com
  ## [License](LICENSE)
  MIT License
  Copyright (c) YEAR Author
