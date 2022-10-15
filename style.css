@@ -65,7 +65,7 @@ nav div ul li a:hover{
     display: flex;
     align-items: center;
     text-align: center;
-    color: aqua;
+    color: black;
     flex-direction: row;
     text-decoration: none;
     margin-left: 3rem;
